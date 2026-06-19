@@ -2,7 +2,7 @@
 
 > A minimal ray tracer built in C, following the 42 School project specifications.
 
-![miniRT Preview](minirt_preview.png)
+<img width="1402" height="879" alt="image" src="https://github.com/user-attachments/assets/beb49b58-c9bc-4ad1-baf2-e60b6c77b9ee" />
 
 ---
 
