@@ -110,13 +110,7 @@ This project is part of the **42 School** graphics branch. It introduces:
 
 ## 👥 Authors
 
-| Name | GitHub |
-|------|--------|
-| Your Name | [@Maxou911](https://github.com/Maxou911) |
-| Your Name | [@uzyberaj](https://github.com/uzyberaj) |
-
----
-
-## 📄 License
-
-This project is for educational purposes as part of the 42 School curriculum.
+| GitHub |
+|--------|
+| [@maxalwis](https://github.com/maxalwis) |
+| [@uzyberaj](https://github.com/uzyberaj) |
